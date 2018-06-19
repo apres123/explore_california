@@ -1,0 +1,6 @@
+what to ignore with .gitignore
+- compiled source code
+- packages and compressed flies
+- logs and databases
+- operating system generated files
+- user-uploaded assets (images, PDFs, videos)
